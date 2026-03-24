@@ -4,7 +4,7 @@ import { NavLink } from "react-router";
 import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
   return (
-    <div className=" flex justify-between items-center px-2 py-2 shadow-lg ">
+    <div className=" bg-white flex justify-between items-center px-2 py-2 shadow-lg ">
       <div className=" flex  items-center gap-2">
         <img className=" max-h-10" src={logo} alt="" />
         <h1>HERO.IO</h1>
