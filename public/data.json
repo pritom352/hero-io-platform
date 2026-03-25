@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "ChatFlow",
+    "companyName": "MetaSoft",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "ChatFlow is a modern real-time messaging application designed to provide fast, secure, and seamless communication for users across the globe. It enables individuals and teams to stay connected through private chats, group conversations, and multimedia sharing features. With built-in end-to-end encryption, ChatFlow ensures that your conversations remain private and protected at all times. The application supports voice notes, file sharing, emoji reactions, and smart notifications that keep you updated without overwhelming you. Its clean and intuitive interface makes navigation effortless, even for new users. Whether you are chatting with friends, coordinating with your team, or sharing important files, ChatFlow delivers a reliable and efficient messaging experience anytime and anywhere.",
+    "size": 25,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": "50k",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PhotoSnap",
+    "companyName": "PixelLab",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "PhotoSnap is a powerful photo editing and capturing application that allows users to transform everyday moments into visually stunning memories. It comes with a wide range of advanced editing tools including filters, brightness control, contrast adjustment, cropping, and AI-powered enhancements. Users can easily enhance image quality, remove imperfections, and apply creative effects with just a few taps. The application also supports instant sharing to social media platforms, making it perfect for influencers, photographers, and casual users alike. With its smooth performance and user-friendly design, PhotoSnap makes professional-level editing accessible to everyone. Whether you are editing selfies or landscape shots, PhotoSnap ensures every image looks its best.",
+    "size": 40,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": "42k",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 340 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FitTrack",
+    "companyName": "Healthify",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "FitTrack is a comprehensive fitness and health tracking application designed to help users achieve their wellness goals effectively. It monitors daily activities such as steps taken, calories burned, heart rate, and workout sessions. The app provides personalized recommendations, progress reports, and goal-setting features to keep users motivated throughout their fitness journey. With its intuitive dashboard and easy-to-understand analytics, users can track their improvements over time and make better lifestyle decisions. FitTrack also includes reminders, workout plans, and integration with wearable devices for a seamless experience. Whether you are starting your fitness journey or maintaining an active lifestyle, FitTrack is your perfect companion for staying healthy and consistent.",
+    "size": 30,
+    "reviews": 870,
+    "ratingAvg": 4.4,
+    "downloads": "38k",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Foodie",
+    "companyName": "TasteHub",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "Foodie is an intelligent food discovery and delivery platform that connects users with the best restaurants and cuisines in their area. The app allows you to browse menus, explore trending dishes, and place orders quickly and conveniently. With features like real-time order tracking, secure payment systems, and personalized recommendations, Foodie ensures a smooth and enjoyable experience. Users can filter restaurants based on ratings, price range, and cuisine type, making it easy to find exactly what they are craving. Whether you want a quick snack or a full-course meal, Foodie delivers quality and convenience right to your doorstep.",
+    "size": 35,
+    "reviews": 1500,
+    "ratingAvg": 4.6,
+    "downloads": "60k",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ShopEasy",
+    "companyName": "BuyNow Inc.",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "ShopEasy is a feature-rich e-commerce platform designed to simplify online shopping for users worldwide. It offers a vast selection of products including fashion, electronics, home essentials, and more. The app provides a smooth browsing experience with advanced search filters, personalized recommendations, and secure checkout options. Users can enjoy exclusive deals, discounts, and fast delivery services. ShopEasy also includes order tracking, customer reviews, and wishlist features to enhance the overall shopping experience. Whether you are shopping for daily needs or special occasions, ShopEasy makes the process quick, reliable, and enjoyable.",
+    "size": 50,
+    "reviews": 2000,
+    "ratingAvg": 4.7,
+    "downloads": "80k",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 980 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "TravelMate",
+    "companyName": "WanderTech",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "TravelMate is a comprehensive travel planning application that helps users organize and manage their trips with ease. It provides detailed information about destinations, including popular attractions, hotels, restaurants, and local experiences. Users can create personalized travel itineraries, book accommodations, and get real-time updates on flights and weather conditions. The app also offers navigation assistance, budget tracking, and travel tips to ensure a smooth and enjoyable journey. Whether you are planning a solo trip or a family vacation, TravelMate simplifies every step of your travel experience and helps you explore the world confidently.",
+    "size": 45,
+    "reviews": 780,
+    "ratingAvg": 4.2,
+    "downloads": "30k",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "EduLearn",
+    "companyName": "SmartEdu",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "EduLearn is an interactive online learning platform designed to help users gain new skills and knowledge in a flexible and engaging way. It offers a wide range of courses in areas such as programming, design, business, and personal development. The platform includes video lessons, quizzes, assignments, and progress tracking features to ensure effective learning. Users can learn at their own pace and receive certificates upon course completion. With expert instructors and high-quality content, EduLearn makes education accessible and enjoyable for students of all levels.",
+    "size": 60,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": "55k",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "MusicWave",
+    "companyName": "SoundLab",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "MusicWave is a high-quality music streaming application that allows users to listen to their favorite songs anytime, anywhere. It features a vast library of tracks from various genres, curated playlists, and personalized recommendations based on user preferences. The app provides seamless playback, offline downloads, and high-definition audio quality for an immersive listening experience. Users can create their own playlists, follow artists, and discover new music effortlessly. MusicWave combines performance, simplicity, and entertainment to deliver the ultimate music experience.",
+    "size": 55,
+    "reviews": 1300,
+    "ratingAvg": 4.6,
+    "downloads": "70k",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "TaskMaster",
+    "companyName": "Productive Inc.",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "TaskMaster is a powerful productivity application designed to help users organize their daily tasks and manage their time efficiently. It allows users to create to-do lists, set priorities, schedule reminders, and track progress throughout the day. The app features a clean and intuitive interface that makes task management simple and effective. With built-in analytics and performance tracking, users can identify productivity patterns and improve their workflow. Whether you are managing personal goals or professional projects, TaskMaster helps you stay focused and accomplish more.",
+    "size": 26,
+    "reviews": 650,
+    "ratingAvg": 4.2,
+    "downloads": "28k",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "MovieTime",
+    "companyName": "CinemaHub",
+    "image": "https://i0.wp.com/blog.photojournalist-tgh.tv/wp-content/uploads/2018/11/BTS-ASSET_PocketPhotoSnap_Horizontal-full.jpg",
+    "description": "MovieTime is a complete entertainment application that allows users to explore, discover, and watch trending movies and TV shows. It provides detailed information about films, including ratings, reviews, trailers, and cast details. Users can browse through different genres, create watchlists, and receive personalized recommendations based on their viewing history. The app ensures a smooth streaming experience with high-quality video playback and minimal buffering. Whether you are a movie enthusiast or a casual viewer, MovieTime delivers a rich and engaging entertainment experience tailored to your preferences.",
+    "size": 65,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": "75k",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 630 }
+    ]
+  }
+]
