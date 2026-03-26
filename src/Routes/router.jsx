@@ -3,11 +3,13 @@ import HomeLayout from "../Layout/HomeLayout";
 import Home from "../Pages/Home";
 import Apps from "../Pages/Apps";
 import Details from "../Pages/Details";
+import NotFound from "../Components/NotFound";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <HomeLayout></HomeLayout>,
+    errorElement:<NotFound></NotFound>,
     children: [
       { path: "/", element: <Home></Home>, loader: () => fetch("/data.json") },
       {
