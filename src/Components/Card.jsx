@@ -3,7 +3,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
 import { FaStar } from "react-icons/fa6";
 import { Link } from "react-router";
 const Card = ({ item }) => {
-  console.log(item);
+  // console.log(item);
   const {
     id,
     companyName,

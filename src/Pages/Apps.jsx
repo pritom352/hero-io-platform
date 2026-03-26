@@ -5,7 +5,7 @@ import Card from "../Components/Card";
 const Apps = () => {
   const data = useLoaderData();
   const totalData = data.length;
-  console.log(totalData);
+  // console.log(totalData);
 
   return (
     <div className="  max-w-8/10  mx-auto">

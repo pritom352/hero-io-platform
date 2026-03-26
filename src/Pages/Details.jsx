@@ -3,15 +3,22 @@ import { FaStar } from "react-icons/fa6";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { useLoaderData, useParams } from "react-router";
 import { AiFillLike } from "react-icons/ai";
-
+import {
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  Tooltip,
+  ResponsiveContainer,
+} from "recharts";
 const Details = () => {
   const cardId = useParams();
-  console.log(cardId);
+  // console.log(cardId);
   const itemID = useLoaderData();
-  console.log(itemID);
+  // console.log(itemID);
 
   const allItem = itemID.find((data) => data?.id == cardId?.id);
-  console.log(allItem);
+  // console.log(allItem);
   const green = { color: "green" };
   const yellow = { color: "yellow" };
   const purple = { color: "purple" };
@@ -28,6 +35,8 @@ const Details = () => {
     size,
     title,
   } = allItem;
+
+  const sortedRatings = [...ratings].reverse();
   return (
     <div className=" max-w-8/10  mx-auto ">
       <div className=" flex gap-10">
@@ -59,6 +68,28 @@ const Details = () => {
         </div>
       </div>
       <div className="w-full border my-7"></div>
+      {/* bar chart */}
+      <p className=" text-2xl font-bold mt-10 mb-4">Ratings</p>
+       <ResponsiveContainer width="100%" height="300">
+        <BarChart
+          data={sortedRatings}
+          layout="vertical" // 🔥 THIS IS THE MAGIC
+          margin={{ top: 10, right: 30, bottom: 10 }}
+        >
+          <XAxis type="number" />
+          <YAxis dataKey="name" type="category" />
+          <Tooltip />
+
+          <Bar
+            dataKey="count"
+            fill="#f97316" // orange color
+            radius={[0, 10, 10, 0]} // rounded right side
+          />
+        </BarChart>
+      </ResponsiveContainer>
+      <div className="w-full border my-10"></div>
+      <p className=" text-2xl font-bold mb-6">Description</p>
+      <p>{description}</p>
     </div>
   );
 };
