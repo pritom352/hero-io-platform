@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { getStoredApps } from "../utils/localStorage";
 import { toast } from "react-toastify";
-import NotFound from "../Components/NotFound";
 import { FaStar } from "react-icons/fa6";
 import { MdOutlineFileDownload } from "react-icons/md";
+import AppNotFound from "../Components/AppNotFound";
 
 const MyInstallation = () => {
   const [apps, setApps] = useState([]);
@@ -70,7 +70,7 @@ const MyInstallation = () => {
           ))}
         </div>
       ) : (
-        <NotFound></NotFound>
+        <AppNotFound></AppNotFound>
       )}
     </div>
   );
