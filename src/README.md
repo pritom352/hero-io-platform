@@ -53,7 +53,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/hero-io.git
+git clone https://github.com/pritom352/hero-io-platform
 
 # Install dependencies
 npm install
@@ -66,7 +66,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [Add your live link here]
+👉 https://phenomenal-daifuku-99bff9.netlify.app/
 
 ---
 
@@ -81,3 +81,4 @@ npm run dev
 ## 📌 Note
 
 This project is built as part of an assignment to demonstrate modern React development skills including state management, routing, data handling, and UI design.
+ 
